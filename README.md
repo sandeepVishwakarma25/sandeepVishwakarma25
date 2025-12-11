@@ -87,13 +87,6 @@ Social discovery platform with Top-10 lists, community engagement, trending feat
 
 ---
 
-## 📊 GitHub Stats
-
-![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandeepVishwakarma25&show_icons=true&theme=transparent)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepVishwakarma25&layout=compact)
-
----
-
 ## 🎯 Currently Working On
 - Improving **system design skills**  
 - Building **high-traffic APIs**  
